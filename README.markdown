@@ -391,10 +391,6 @@ using Google Docs:
 
 
 	
-### Storify:
-
-Support for Storify is still in it's early stages. It works though. Just paste a link to the storify story as the source.
-
 ## Media
 
 Included in the zip file is a kitchen sink example. This timeline shows how to
@@ -407,7 +403,7 @@ format it.
 
 ## Best practices
 
-Tips and tricks to best utilize TimelineJS
+Tips and tricks to best utilize this prog
 
   1. Keep it light - don’t get bogged down by text or other elements
   2. Pick stories that have a strong chronological narrative. It does not work well for stories that need to jump around in the timeline.
