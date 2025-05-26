@@ -414,8 +414,5 @@ Tips and tricks to best utilize TimelineJS
   3. Include events that build up to major occurrences, not just the major events.
   4. Don't overwhelm the user. A timeline with hundreds of events is probably not the best use of the format.
   
-## License
-This Source Code Form is subject to the terms of the Mozilla Public
-License, v. 2.0. If a copy of the MPL was not distributed with this
-file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
 
